@@ -1,0 +1,18 @@
+Release Notes for APM32F035xx SDK
+
+Update History
+V1.0 / 30-09-2022
+First Release version of APM32F035xx SDK.
+
+V1.1 / 29-03-2024
+Add IAP example by I2C and SPI.
+Add Eclipse project.
+Update Libraries to 1.0.1
+
+V1.2.0 / 29-10-2024
+Remove PUF module.
+Increase HSE ready delay.
+
+V1.2.1 / 10-02-2024
+Update TMR and M0CP library.
+Update IAR project.
